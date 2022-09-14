@@ -1,24 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hello there, I'm <a href="https://suleman.dev"> Suleman Tariq </a><img src="https://i.gifer.com/4vss.gif" width="50px"></h1>
+
+![](https://komarev.com/ghpvc/?username=suleman1220&style=for-the-badge)
 
 ### My Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=suleman1220&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=suleman1220&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
 
 <div>
 <img align="center" alt = "Suleman Tariq GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=suleman1220&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs"/>
 </div>
 
-<!--
-**suleman1220/suleman1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: suleman1220@gmail.com
