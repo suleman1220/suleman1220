@@ -7,8 +7,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=suleman1220&theme=tokyonight)](https://git.io/streak-stats)
 
 <div>
-<img align="center" alt = "Suleman Tariq GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=suleman1220&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs,issues"/>
+<img align="center" alt = "Suleman Tariq GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=suleman1220&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs,issues&include_all_commits=true"/>
 </div>
-<br />
-
-- 📫 How to reach me: suleman1220@gmail.com
