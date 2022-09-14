@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=suleman1220&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
 <!--
 **suleman1220/suleman1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
