@@ -1,6 +1,16 @@
 ### Hi there 👋
 
+### My Github Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=suleman1220&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+<div>
+<img align="center" alt = "Suleman Tariq GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=suleman1220&show_icons=true&theme=tokyonight"/>
+</div>
+
+<div>
+<img align="center" alt = "Suleman Tariq GITHUB STATS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleman1220&layout=compact&show_icons=true&theme=tokyonight"/>
+</div>
 
 <!--
 **suleman1220/suleman1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
