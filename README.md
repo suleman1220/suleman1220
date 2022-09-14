@@ -4,10 +4,10 @@
 
 ### My Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=suleman1220&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=suleman1220&theme=tokyonight)](https://git.io/streak-stats)
 
 <div>
-<img align="center" alt = "Suleman Tariq GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=suleman1220&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs"/>
+<img align="center" alt = "Suleman Tariq GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=suleman1220&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs,issues"/>
 </div>
 
 - 📫 How to reach me: suleman1220@gmail.com
