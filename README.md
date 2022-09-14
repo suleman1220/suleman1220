@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm <a href="https://suleman.dev"> Suleman Tariq </a><img src="https://i.gifer.com/4vss.gif" width="50px"></h1>
+<h1 align="center">Hello there, I'm <a href="https://suleman.dev"> Suleman Tariq </a></h1>
 
 ![](https://komarev.com/ghpvc/?username=suleman1220&style=for-the-badge)
 
