@@ -5,11 +5,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=suleman1220&theme=tokyonight&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 <div>
-<img align="center" alt = "Suleman Tariq GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=suleman1220&show_icons=true&theme=tokyonight&count_private=true"/>
-</div>
-
-<div>
-<img align="center" alt = "Suleman Tariq GITHUB STATS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleman1220&layout=compact&show_icons=true&theme=tokyonight&count_private=true"/>
+<img align="center" alt = "Suleman Tariq GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=suleman1220&show_icons=true&theme=tokyonight&count_private=true&hide=contribs,prs"/>
 </div>
 
 <!--
